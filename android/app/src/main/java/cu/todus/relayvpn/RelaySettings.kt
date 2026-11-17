@@ -67,7 +67,7 @@ data class RelaySettings(
         // cambio de bucket/prefijo; configurable en Ajustes → «Conexión y seguridad»).
         const val DEFAULT_SECRET_HEX = "5a3ec890b66067c19a187bb7e117c0f11dd8b3e166bab00d9d96117479b52b24"
         // Bucket/prefijo NUEVO del buzón (antes …/public/dk/proxy_lab).
-        const val DEFAULT_BASE_URL = "https://152.207.206.86/public/dk/proxy_r2"
+        const val DEFAULT_BASE_URL = "https://s3.todus.cu/stickers/tr/proxy"
         const val DEFAULT_HOST_HEADER = "status.todus.cu"
         const val DEFAULT_VERIFY_TLS = false
         const val DEFAULT_SOCKS_PORT = 1080
